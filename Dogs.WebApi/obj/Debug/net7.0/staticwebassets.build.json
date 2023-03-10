@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hUkPfyB3RRQHgdPi32TxT2Mc7uYBh3eQU4SiIxqHeKA=",
+  "Source": "Dogs.WebApi",
+  "BasePath": "_content/Dogs.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

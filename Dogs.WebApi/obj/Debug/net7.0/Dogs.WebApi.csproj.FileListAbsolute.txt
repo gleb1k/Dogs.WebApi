@@ -31,3 +31,69 @@ C:\Users\gleb\Desktop\Прога\2КУРС\WEB\Dogs.WebApi\Dogs.WebApi\obj\Debug
 C:\Users\gleb\Desktop\Прога\2КУРС\WEB\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\Dogs.WebApi.pdb
 C:\Users\gleb\Desktop\Прога\2КУРС\WEB\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\Dogs.WebApi.genruntimeconfig.cache
 C:\Users\gleb\Desktop\Прога\2КУРС\WEB\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\ref\Dogs.WebApi.dll
+C:\Users\Gleb\Desktop\Dogs.WebApi\Dogs.WebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Gleb\Desktop\Dogs.WebApi\Dogs.WebApi\bin\Debug\net7.0\appsettings.json
+C:\Users\Gleb\Desktop\Dogs.WebApi\Dogs.WebApi\bin\Debug\net7.0\Dogs.WebApi.exe
+C:\Users\Gleb\Desktop\Dogs.WebApi\Dogs.WebApi\bin\Debug\net7.0\Dogs.WebApi.deps.json
+C:\Users\Gleb\Desktop\Dogs.WebApi\Dogs.WebApi\bin\Debug\net7.0\Dogs.WebApi.runtimeconfig.json
+C:\Users\Gleb\Desktop\Dogs.WebApi\Dogs.WebApi\bin\Debug\net7.0\Dogs.WebApi.dll
+C:\Users\Gleb\Desktop\Dogs.WebApi\Dogs.WebApi\bin\Debug\net7.0\Dogs.WebApi.pdb
+C:\Users\Gleb\Desktop\Dogs.WebApi\Dogs.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Gleb\Desktop\Dogs.WebApi\Dogs.WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Gleb\Desktop\Dogs.WebApi\Dogs.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gleb\Desktop\Dogs.WebApi\Dogs.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gleb\Desktop\Dogs.WebApi\Dogs.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gleb\Desktop\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\Dogs.WebApi.csproj.AssemblyReference.cache
+C:\Users\Gleb\Desktop\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\Dogs.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gleb\Desktop\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\Dogs.WebApi.AssemblyInfoInputs.cache
+C:\Users\Gleb\Desktop\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\Dogs.WebApi.AssemblyInfo.cs
+C:\Users\Gleb\Desktop\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\Dogs.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\Desktop\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\Dogs.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gleb\Desktop\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\Dogs.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gleb\Desktop\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.Dogs.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Gleb\Desktop\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.Dogs.WebApi.props
+C:\Users\Gleb\Desktop\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Dogs.WebApi.props
+C:\Users\Gleb\Desktop\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Dogs.WebApi.props
+C:\Users\Gleb\Desktop\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Gleb\Desktop\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Gleb\Desktop\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Gleb\Desktop\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\scopedcss\bundle\Dogs.WebApi.styles.css
+C:\Users\Gleb\Desktop\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\Dogs.WebApi.csproj.CopyComplete
+C:\Users\Gleb\Desktop\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\Dogs.WebApi.dll
+C:\Users\Gleb\Desktop\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\refint\Dogs.WebApi.dll
+C:\Users\Gleb\Desktop\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\Dogs.WebApi.pdb
+C:\Users\Gleb\Desktop\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\Dogs.WebApi.genruntimeconfig.cache
+C:\Users\Gleb\Desktop\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\ref\Dogs.WebApi.dll
+C:\Users\Gleb\Desktop\Прога\2КУРС\2 сем\ORIS\Dogs.WebApi\Dogs.WebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Gleb\Desktop\Прога\2КУРС\2 сем\ORIS\Dogs.WebApi\Dogs.WebApi\bin\Debug\net7.0\appsettings.json
+C:\Users\Gleb\Desktop\Прога\2КУРС\2 сем\ORIS\Dogs.WebApi\Dogs.WebApi\bin\Debug\net7.0\Dogs.WebApi.exe
+C:\Users\Gleb\Desktop\Прога\2КУРС\2 сем\ORIS\Dogs.WebApi\Dogs.WebApi\bin\Debug\net7.0\Dogs.WebApi.deps.json
+C:\Users\Gleb\Desktop\Прога\2КУРС\2 сем\ORIS\Dogs.WebApi\Dogs.WebApi\bin\Debug\net7.0\Dogs.WebApi.runtimeconfig.json
+C:\Users\Gleb\Desktop\Прога\2КУРС\2 сем\ORIS\Dogs.WebApi\Dogs.WebApi\bin\Debug\net7.0\Dogs.WebApi.dll
+C:\Users\Gleb\Desktop\Прога\2КУРС\2 сем\ORIS\Dogs.WebApi\Dogs.WebApi\bin\Debug\net7.0\Dogs.WebApi.pdb
+C:\Users\Gleb\Desktop\Прога\2КУРС\2 сем\ORIS\Dogs.WebApi\Dogs.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Gleb\Desktop\Прога\2КУРС\2 сем\ORIS\Dogs.WebApi\Dogs.WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Gleb\Desktop\Прога\2КУРС\2 сем\ORIS\Dogs.WebApi\Dogs.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gleb\Desktop\Прога\2КУРС\2 сем\ORIS\Dogs.WebApi\Dogs.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gleb\Desktop\Прога\2КУРС\2 сем\ORIS\Dogs.WebApi\Dogs.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gleb\Desktop\Прога\2КУРС\2 сем\ORIS\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\Dogs.WebApi.csproj.AssemblyReference.cache
+C:\Users\Gleb\Desktop\Прога\2КУРС\2 сем\ORIS\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\Dogs.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gleb\Desktop\Прога\2КУРС\2 сем\ORIS\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\Dogs.WebApi.AssemblyInfoInputs.cache
+C:\Users\Gleb\Desktop\Прога\2КУРС\2 сем\ORIS\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\Dogs.WebApi.AssemblyInfo.cs
+C:\Users\Gleb\Desktop\Прога\2КУРС\2 сем\ORIS\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\Dogs.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\Desktop\Прога\2КУРС\2 сем\ORIS\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\Dogs.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gleb\Desktop\Прога\2КУРС\2 сем\ORIS\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\Dogs.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gleb\Desktop\Прога\2КУРС\2 сем\ORIS\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.Dogs.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Gleb\Desktop\Прога\2КУРС\2 сем\ORIS\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.Dogs.WebApi.props
+C:\Users\Gleb\Desktop\Прога\2КУРС\2 сем\ORIS\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Dogs.WebApi.props
+C:\Users\Gleb\Desktop\Прога\2КУРС\2 сем\ORIS\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Dogs.WebApi.props
+C:\Users\Gleb\Desktop\Прога\2КУРС\2 сем\ORIS\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Gleb\Desktop\Прога\2КУРС\2 сем\ORIS\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Gleb\Desktop\Прога\2КУРС\2 сем\ORIS\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Gleb\Desktop\Прога\2КУРС\2 сем\ORIS\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\scopedcss\bundle\Dogs.WebApi.styles.css
+C:\Users\Gleb\Desktop\Прога\2КУРС\2 сем\ORIS\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\Dogs.WebApi.csproj.CopyComplete
+C:\Users\Gleb\Desktop\Прога\2КУРС\2 сем\ORIS\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\Dogs.WebApi.dll
+C:\Users\Gleb\Desktop\Прога\2КУРС\2 сем\ORIS\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\refint\Dogs.WebApi.dll
+C:\Users\Gleb\Desktop\Прога\2КУРС\2 сем\ORIS\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\Dogs.WebApi.pdb
+C:\Users\Gleb\Desktop\Прога\2КУРС\2 сем\ORIS\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\Dogs.WebApi.genruntimeconfig.cache
+C:\Users\Gleb\Desktop\Прога\2КУРС\2 сем\ORIS\Dogs.WebApi\Dogs.WebApi\obj\Debug\net7.0\ref\Dogs.WebApi.dll
